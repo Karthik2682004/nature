@@ -1,0 +1,134 @@
+
+
+nav{
+    
+    color: rgb(243, 125, 7);
+    padding: 15px;
+    font: 1em sans-serif;
+    
+    
+
+}
+li,h1,ul{
+    display: inline;
+}
+ul{
+    margin-left: 50%;
+    
+    
+}
+li a{
+    color: rgb(0, 10, 3);
+    cursor: pointer;
+    font-size: 19px;
+    text-decoration: none;
+    padding: 10px;
+
+      
+}
+
+li a:hover
+{
+    color:rgba(7, 230, 25, 0.952)
+}
+
+
+.about {
+    padding: 70px;
+    padding-left: 60px;
+    margin-bottom: 10px;
+    color: green;
+
+}
+button{
+    color:black;
+    background-color: rgb(9, 250, 157);
+    border: 2px;
+    border-color: rgb(68, 3, 3);
+    border-style: solid;
+    padding: 5px;
+    border-radius: 10px;
+    
+    margin-left: 100px;
+    
+}
+.text{
+    color: rgb(4, 0, 7);
+}
+
+body{
+    background: cover;
+    background-repeat:no-repeat;
+    
+}
+
+input{
+    width: 60%;
+    padding: 10px;
+
+}
+.searchbar{
+    padding: 50px;
+    text-align: center;
+    
+    
+}
+.shop{
+    border: 2px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 9px;
+    display: inline-block;
+    width: 275px;
+    
+
+}
+.products{
+    text-align: center;
+}
+.shop:hover{
+    background-color: black;
+    color: aliceblue;
+    
+}
+.inper{
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+input{
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
